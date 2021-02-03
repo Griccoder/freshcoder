@@ -252,8 +252,7 @@
                    {
                    name: '贵州', 
                     itemStyle: {
-                        normal: {
-                            
+                        normal: {   
                             areaColor :'#2F4F4F',
                         },
                     },
