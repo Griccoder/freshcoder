@@ -240,6 +240,15 @@
                         },
                     },
                  },
+                {
+                   name: '黑龙江', //这个名字要和china.js保持一致
+                    itemStyle: {
+                        normal: {
+                            opacity:'100',
+                            areaColor :'#2F4F4F',
+                        },
+                    },
+                 },
                    {
                    name: '贵州', 
                     itemStyle: {
