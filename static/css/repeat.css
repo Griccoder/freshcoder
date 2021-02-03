@@ -1,0 +1,44 @@
+
+.el-progress-bar__outer{
+  background: #143463 !important;
+}
+.el-progress-bar__innerText{
+  display: none !important;
+}
+.el-input__inner{
+  background-color: rgba(0,0,0,0) !important;
+  border: 1px solid #29a5fb !important;
+  color: #29a5fb !important;
+}
+#page-2 .el-progress-bar__inner{
+  background: -webkit-linear-gradient(left, #8dfebb , #02ce04) !important;
+  background: -o-linear-gradient(right, #8dfebb, #02ce04) !important;
+  background: -moz-linear-gradient(right, #8dfebb, #02ce04) !important;
+  background: linear-gradient(to right, #8dfebb , #02ce04) !important;
+}
+#page-2 .el-progress-bar__inner:after{
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+}
+
+.el-table--border, .el-table--group,.el-table td, .el-table th.is-leaf{
+  border: none !important;
+}
+.el-table,
+.el-table__expanded-cell,
+.el-table th, .el-table tr,
+.el-table--border::after,
+.el-table--group::after,
+.el-table::before{
+  background: none !important;
+}
+.el-table__empty-text{
+  color: #fff !important;
+}
+.el-table thead{
+  color: #fff;
+}
+#page5 .el-input__inner{
+  height: 30px;
+}

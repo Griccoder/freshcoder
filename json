@@ -1,0 +1,149 @@
+{
+  tableData: [
+            {
+              index: 1,
+              vin: 'SDFWE3',
+              projectName: '涂淋检测',
+              carType: '远景S1',
+              configure: '豪华',
+              startTime: '2018-04-10',
+              endTime: '2018-04-12',
+              status: 1
+            },
+            {
+              index: 2,
+              vin: 'SDFE456',
+              projectName: '涂淋检测',
+              carType: '远景S1',
+              configure: '豪华',
+              startTime: '2018-04-10',
+              endTime: '2018-04-12',
+              status: 2
+            },
+            {
+              index: 3,
+              vin: 'SDFWET',
+              projectName: '涂淋检测',
+              carType: '远景S1',
+              configure: '豪华',
+              startTime: '2018-04-10',
+              endTime: '2018-04-12',
+              status: 1
+            },
+            {
+              index: 4,
+              vin: 'SD1244D',
+              projectName: '涂淋检测',
+              carType: '远景S1',
+              configure: '豪华',
+              startTime: '2018-04-10',
+              endTime: '2018-04-12',
+              status: 1
+            },
+            {
+              index: 5,
+              vin: 'SDTHN12',
+              projectName: '涂淋检测',
+              carType: '远景S1',
+              configure: '豪华',
+              startTime: '2018-04-10',
+              endTime: '2018-04-12',
+              status: 1
+            },
+            {
+              index: 6,
+              vin: 'SDSDF14',
+              projectName: '涂淋检测',
+              carType: '远景S1',
+              configure: '豪华',
+              startTime: '2018-04-10',
+              endTime: '2018-04-12',
+              status: 1
+            },
+            {
+              index: 7,
+              vin: '4GFB234',
+              projectName: '涂淋检测',
+              carType: '远景S1',
+              configure: '豪华',
+              startTime: '2018-04-10',
+              endTime: '2018-04-12',
+              status: 2
+            },
+            {
+              index: 8,
+              vin: 'SD5VD234',
+              projectName: '涂淋检测',
+              carType: '远景S1',
+              configure: '豪华',
+              startTime: '2018-04-10',
+              endTime: '2018-04-12',
+              status: 1
+            },
+            {
+              index: 9,
+              vin: 'FDSE$3',
+              projectName: '涂淋检测',
+              carType: '远景S1',
+              configure: '豪华',
+              startTime: '2018-04-10',
+              endTime: '2018-04-12',
+              status: 1
+            },
+            {
+              index: 10,
+              vin: 'SD523SF',
+              projectName: '涂淋检测',
+              carType: '远景S1',
+              configure: '豪华',
+              startTime: '2018-04-10',
+              endTime: '2018-04-12',
+              status: 1
+            },
+            {
+              index: 11,
+              vin: 'GGS34S',
+              projectName: '涂淋检测',
+              carType: '远景S1',
+              configure: '豪华',
+              startTime: '2018-04-10',
+              endTime: '2018-04-12',
+              status: 1
+            },
+            {
+              index: 12,
+              vin: 'SGH452D',
+              projectName: '涂淋检测',
+              carType: '远景S1',
+              configure: '豪华',
+              startTime: '2018-04-10',
+              endTime: '2018-04-12',
+              status: 1
+            },
+          ],
+          detailData: [
+            {
+              name: 'FAS工位',
+              img: '',
+              vin: 'DGJS2432',
+              fasStatus: 1,
+              time: 33
+            }
+          ]
+}
+
+{VIN:'L6T78F2Z4JN400252', '计划编号':1424,name:'ABS', bug:'制动防抱死系统异常'},
+{VIN:'LB37752D2JC000238', '计划编号':2314,name:'ICU', bug:'仪表控制单元异常'},
+{VIN:'L6T78F2Z1HY000027', '计划编号':2344,name:'ESCL', bug:'电子转向柱锁异常'},
+{VIN:'LB37752Z1GC288306', '计划编号':3234,name:'AVM', bug:'全息影像模块异常'},
+{VIN:'L6T7814S0HN150697', '计划编号':3124,name:'ABS', bug:'制动防抱死系统异常'},
+{VIN:'L6T7822D1HN000095', '计划编号':1264,name:'AESCL', bug:'电子转向柱锁常'},
+{VIN:'L6T7752Z0JZ000291', '计划编号':1274,name:'MMI', bug:'多媒体交互系统异常'},
+{VIN:'LB37752D2JC000238', '计划编号':1856,name:'PEPS', bug:'无钥匙进入及启动系统异常'},
+{VIN:'L6T78F2GEFSSF0252', '计划编号':1574,name:'TCU', bug:'变速器控制单元常'},
+{VIN:'L6T2DFEGCNYF00252', '计划编号':0064,name:'ABS', bug:'制动防抱死系统异常'},
+{VIN:'L6T78F2Z4JNGDGE35', '计划编号':0034,name:'ACU', bug:'安全气囊控制单元异常'},
+{VIN:'L6T78F2Z443GDWE22', '计划编号':0074,name:'ABS', bug:'制动防抱死系统异常'},
+{VIN:'L6T78F2Z446FED22V', '计划编号':0153,name:'AVM', bug:'全息影像模块异常'},
+{VIN:'L6T78F2Z4123DFESV', '计划编号':0132,name:'ABS', bug:'制动防抱死系统异常'},
+{VIN:'L6T78F2SDFEW3345D', '计划编号':0189,name:'ACU', bug:'安全气囊控制单元异常'}
