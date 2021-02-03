@@ -261,8 +261,7 @@
                  {
                    name: '浙江', 
                     itemStyle: {
-                        normal: {
-                            
+                        normal: {  
                             areaColor :'#2F4F4F',
                         },
                     },
