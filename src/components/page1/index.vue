@@ -236,7 +236,7 @@
                     itemStyle: {
                         normal: {
                             opacity:'100',
-                            areaColor :'#2F4F4F',
+                            areaColor :'#395b85',
                         },
                     },
                  },
@@ -245,7 +245,79 @@
                     itemStyle: {
                         normal: {
                             opacity:'100',
-                            areaColor :'#2F4F4F',
+                            areaColor :'#395b80',
+                        },
+                    },
+                 },
+                                 {
+                   name: '湖南', //这个名字要和china.js保持一致
+                    itemStyle: {
+                        normal: {
+                            opacity:'100',
+                            areaColor :'#395b80',
+                        },
+                    },
+                 },
+                 {
+                   name: '湖北', //这个名字要和china.js保持一致
+                    itemStyle: {
+                        normal: {
+                            opacity:'100',
+                            areaColor :'#395b80',
+                        },
+                    },
+                 },
+                  {
+                   name: '山东', //这个名字要和china.js保持一致
+                    itemStyle: {
+                        normal: {
+                            opacity:'100',
+                            areaColor :'#395b80',
+                        },
+                    },
+                 },
+                 {
+                   name: '山西', //这个名字要和china.js保持一致
+                    itemStyle: {
+                        normal: {
+                            opacity:'100',
+                            areaColor :'#395b80',
+                        },
+                    },
+                 },
+                {
+                   name: '陕西', //这个名字要和china.js保持一致
+                    itemStyle: {
+                        normal: {
+                            opacity:'100',
+                            areaColor :'#395b80',
+                        },
+                    },
+                 },
+                 {
+                   name: '甘肃', //这个名字要和china.js保持一致
+                    itemStyle: {
+                        normal: {
+                            opacity:'100',
+                            areaColor :'#395b80',
+                        },
+                    },
+                 },
+                 {
+                   name: '河北', //这个名字要和china.js保持一致
+                    itemStyle: {
+                        normal: {
+                            opacity:'100',
+                            areaColor :'#395b80',
+                        },
+                    },
+                 },
+                  {
+                   name: '黑龙江', //这个名字要和china.js保持一致
+                    itemStyle: {
+                        normal: {
+                            opacity:'100',
+                            areaColor :'#395b80',
                         },
                     },
                  },
@@ -253,7 +325,7 @@
                    name: '贵州', 
                     itemStyle: {
                         normal: {   
-                            areaColor :'#2F4F4F',
+                            areaColor :'#395b80',
                         },
                     },
                  },
@@ -261,7 +333,7 @@
                    name: '浙江', 
                     itemStyle: {
                         normal: {  
-                            areaColor :'#2F4F4F',
+                            areaColor :'#395b80',
                         },
                     },
                  }
